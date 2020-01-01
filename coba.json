@@ -1,0 +1,16 @@
+        {
+            "id_destination": "1A",
+            "nama": "Tarabunga",
+            "Lokasi": "Balige",
+            "deskripsi": "Tarabunga merupakan salah satu dstinasi wisata yang berada di balige. Dengan keindahan alam yang begitu bagus dan nyaman.",
+            "harga": "4000000",
+            "gbr": "3.jpg"
+        },
+        {
+            "id_destination": "2A",
+            "nama": "Pangkodian",
+            "Lokasi": "Meat",
+            "deskripsi": "Pangkodian merupakan salah satu dstinasi wisata yang berada di MEat Balige. Dengan keindahan alam yang begitu bagus dan nyaman.",
+            "harga": "4500000",
+            "gbr": "1.jpg"
+        }
